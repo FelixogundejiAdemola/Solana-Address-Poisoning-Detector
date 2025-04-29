@@ -29,7 +29,7 @@ It analyzes the transaction history of your wallet, identifies addresses that se
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/yourname/solana-address-poisoning-detector.git
+git clone https://github.com/FelixogundejiAdemola/Solana-Address-Poisoning-Detector.git
 cd solana-address-poisoning-detector
 ```
 
@@ -92,4 +92,4 @@ python main.py
 ---
 
 ## 👨‍💻 Author
-- Built by [YourNameHere]
+- Built by [Felix Ogundeji Ademola]
